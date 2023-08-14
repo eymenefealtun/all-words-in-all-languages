@@ -47,3 +47,6 @@ string[] words= File.ReadAllText(Path.Combine(Path.GetDirectoryName(Assembly.Get
  1. [Fork](https://github.com/eymenefealtun/all-words-in-all-languages/fork) the repository.
  2. Add new words to the array or introduce languages that haven't been covered yet.
  3. Submit a pull request.
+
+## Sources
+* https://github.com/words/an-array-of-spanish-words
