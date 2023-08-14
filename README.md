@@ -23,11 +23,6 @@ This repository contains all the words from every language that exists in the un
   * Change its Build Action to Embedded resource and its Copy to Output Directory to Copy if newer from its properties.
   * Assign to a string array: ` string[] words= File.ReadAllText(Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"yourFileName")).Split(',');` 
 
-## How to use?
- 1. [Fork](https://github.com/eymenefealtun/all-words-in-all-languages/fork) the repository.
- 2. Add new words to the array or introduce languages that haven't been covered yet.
- 3. Submit a pull request.
-
 ## Created By: [@eymenefealtun](https://github.com/eymenefealtun)
 * Linkedin: [@eymenefealtun](https://www.linkedin.com/in/eymen-efe-altun-a1681821b)
 * Fiverr: [eymenefealtun](https://www.fiverr.com/eymenefealtun?public_mode=true)
