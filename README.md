@@ -25,6 +25,15 @@ This repository contains all the words from every language that exists in the un
 ```plaintext
 string[] words= File.ReadAllText(Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"yourFileName")).Split(',');
 ```
+## Available Languages (3)
+
+| Language Name      | Language Native Name | Number of Words         | Word File               |
+| ------------------ | -------------------- | ----------------------- | ----------------------- |
+| English            | English              |   300.000              |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/English/English-300.000.txt)  |
+| Arabic             | اللغة العربية              |                 5.691.498 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Arabic/Arabic-5.691.498.txt)  |
+| Turkish            | Türkçe               |      60.451                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Turkish/Turkish-60.451.txt)  |
+
+
 
 ## Created By: [@eymenefealtun](https://github.com/eymenefealtun)
 * Linkedin: [@eymenefealtun](https://www.linkedin.com/in/eymen-efe-altun-a1681821b)
