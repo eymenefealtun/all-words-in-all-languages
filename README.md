@@ -25,7 +25,7 @@ This repository contains all the words from every language that exists in the un
 ```plaintext
 string[] words= File.ReadAllText(Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"yourFileName")).Split(',');
 ```
-## Available Languages (4)
+## Available Languages (5)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
