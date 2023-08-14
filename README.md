@@ -18,10 +18,13 @@
 
 This repository contains all the words from every language that exists in the universe. Each word is separated by commas, allowing effortless integration into your project as a string array using basic comma-based splitting.
   ## How to use?
-* [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
+###[C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
   * Import the txt file into your project.
   * Change its Build Action to Embedded resource and its Copy to Output Directory to Copy if newer from its properties.
-  * Assign to a string array: ` string[] words= File.ReadAllText(Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"yourFileName")).Split(',');` 
+  * Assign to a string array;
+```plaintext
+string[] words= File.ReadAllText(Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"yourFileName")).Split(',');
+```
 
 ## Created By: [@eymenefealtun](https://github.com/eymenefealtun)
 * Linkedin: [@eymenefealtun](https://www.linkedin.com/in/eymen-efe-altun-a1681821b)
