@@ -1,7 +1,7 @@
 # all-words-in-all-languages
 
 <p align="center">
-  <img src="https://github.com/eymenefealtun/all-words-in-all-languages/Resources/mainBanner.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Resources/mainBanner.png?raw=true" alt="Sublime's custom image"/>
 </p>
 <p align="center">
          <a href="#backers" alt="Backers on Open Collective">
