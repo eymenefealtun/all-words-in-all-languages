@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
   ## How to use?
 ### [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
   * Import the txt file into your project.
-  * Change its Build Action to Embedded resource and its Copy to Output Directory to Copy if newer from its properties.
+  * Change its 'Build Action' to Embedded resource and its 'Copy to Output Directory' to Copy if newer from its properties.
   * Assign to a string array;
 ```plaintext
 string[] words= File.ReadAllText(Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"yourFileName")).Split(',');
