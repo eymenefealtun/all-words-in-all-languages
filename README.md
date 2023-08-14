@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/github/forks/eymenefealtun/all-words-in-all-languages?style=plastic" /></a>
 </p>
 
-This repository contains all the words from every language that exists in the universe. Each word is separated by commas, allowing effortless integration into your project as a string array using basic comma-based splitting.
+This repository contains all the words from every language that exists in the universe. Each word is separated by commas, allowing effortless integration into your project as a string array using basic comma-based splitting. If you're seeking an example of how to use it within a project, the [Typing Speed application](https://github.com/eymenefealtun/TarotTyping) utilizes these resources.
   ## How to use?
 ### [C#](https://learn.microsoft.com/en-us/dotnet/csharp/)
   * Import the txt file into your project.
