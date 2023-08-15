@@ -25,18 +25,19 @@ This repository contains all the words from every language that exists in the un
 ```plaintext
 string[] words= File.ReadAllText(Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"yourFileName")).Split(',');
 ```
-## Available Languages (8)
+## Available Languages (9)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
-| English            | English              |   300.000              |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/English/English-300.000.txt)  |
 | Arabic             | اللغة العربية            |                   5.691.498 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Arabic/Arabic-5.691.498.txt)  |
-| Turkish            | Türkçe               |      60.451                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Turkish/Turkish-60.451.txt)  |
-| Kurdish            | Kurdî               |      959                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Kurdish/Kurdish-959.txt)  |
-| Spanish            | Español               |      636.598                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Spanish/Spanish-636.598.txt)  |
-| French             | Français               |      336.528                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/French/French-336.528.txt)  |
-| Persian            | فارسی               |      900.357                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Persian/Persian-900.357.txt)  |
 | Azerbaijani        | Azərbaycan dili        |        38.503             |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Azerbaijani/Azerbaijani-38.503.txt)  |
+| English            | English              |   300.000              |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/English/English-300.000.txt)  |
+| French             | Français               |      336.528                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/French/French-336.528.txt)  |
+| Greek             | ελληνικά               |      35.279               |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Greek/Greek-35.279.txt)  |
+| Kurdish            | Kurdî               |      959                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Kurdish/Kurdish-959.txt)  |
+| Persian            | فارسی               |      900.357                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Persian/Persian-900.357.txt)  |
+| Spanish            | Español               |      636.598                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Spanish/Spanish-636.598.txt)  |
+| Turkish            | Türkçe               |      60.451                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Turkish/Turkish-60.451.txt)  |
 
 ## Created By: [@eymenefealtun](https://github.com/eymenefealtun)
 * Linkedin: [@eymenefealtun](https://www.linkedin.com/in/eymen-efe-altun-a1681821b)
@@ -55,3 +56,4 @@ string[] words= File.ReadAllText(Path.Combine(Path.GetDirectoryName(Assembly.Get
 * https://github.com/lorenbrichter/Words
 * https://github.com/shahind/Persian-Words-Database
 * https://www.kaggle.com/datasets/slyce20/aze-words-corpus
+* https://psychology.nottingham.ac.uk/greeklex/greeklex1.html
