@@ -7,7 +7,7 @@
          <a href="#backers" alt="Backers on Open Collective">
         <img src="https://img.shields.io/github/commit-activity/t/eymenefealtun/all-words-in-all-languages?style=plastic" /></a>
         <a href="#backers" alt="Backers on Open Collective">
-        <img src="https://img.shields.io/github/languages/code-size/eymenefealtun/all-words-in-all-languages?style=plastic" /></a>
+       <img src="https://img.shields.io/github/repo-size/eymenefealtun/all-words-in-all-languages?style=plastic" /></a>
                 <a href="#backers" alt="Backers on Open Collective">
         <img src="https://img.shields.io/github/stars/eymenefealtun/all-words-in-all-languages?style=plastic" /></a>
                 <a href="#backers" alt="Backers on Open Collective">
