@@ -35,6 +35,7 @@ string[] words= File.ReadAllText(Path.Combine(Path.GetDirectoryName(Assembly.Get
 | Kurdish            | Kurdî               |      959                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Kurdish/Kurdish-959.txt)  |
 | Spanish            | Español               |      636.598                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Spanish/Spanish-636.598.txt)  |
 | French            | Français               |      336.528                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/French/French-336.528.txt)  |
+| Persian            | فارسی               |      900.357                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Persian/Persian-900.357.txt)  |
 
 
 ## Created By: [@eymenefealtun](https://github.com/eymenefealtun)
@@ -51,3 +52,5 @@ string[] words= File.ReadAllText(Path.Combine(Path.GetDirectoryName(Assembly.Get
 
 ## Sources
 * https://github.com/words/an-array-of-spanish-words
+* https://github.com/lorenbrichter/Words
+* https://github.com/shahind/Persian-Words-Database
