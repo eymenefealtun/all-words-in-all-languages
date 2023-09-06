@@ -25,13 +25,14 @@ This repository contains all the words from every language that exists in the un
 ```plaintext
 string[] words= File.ReadAllText(Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"yourFileName")).Split(',');
 ```
-## Available Languages (9)
+## Available Languages (10)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
 | Arabic             | اللغة العربية            |                   5.691.498 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Arabic/Arabic-5.691.498.txt)  |
+| Armenian             |   Հայերէն         |                 981  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Armenian/Armenian-981.txt)  |
 | Azerbaijani        | Azərbaycan dili        |        38.503             |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Azerbaijani/Azerbaijani-38.503.txt)  |
-| English            | English              |   300.000              |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/English/English-300.000.txt)  |
+| English            | English              |   466.553              |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/English/English-466.553.txt)  |
 | French             | Français               |      336.528                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/French/French-336.528.txt)  |
 | Greek             | ελληνικά               |      35.279               |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Greek/Greek-35.279.txt)  |
 | Kurdish            | Kurdî               |      959                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Kurdish/Kurdish-959.txt)  |
@@ -57,3 +58,4 @@ string[] words= File.ReadAllText(Path.Combine(Path.GetDirectoryName(Assembly.Get
 * https://github.com/shahind/Persian-Words-Database
 * https://www.kaggle.com/datasets/slyce20/aze-words-corpus
 * https://psychology.nottingham.ac.uk/greeklex/greeklex1.html
+* https://github.com/dwyl/english-words/blob/master/words.txt
