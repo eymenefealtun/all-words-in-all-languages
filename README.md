@@ -25,7 +25,7 @@ This repository contains all the words from every language that exists in the un
 ```plaintext
 string[] words= File.ReadAllText(Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"yourFileName")).Split(',');
 ```
-## Available Languages (10)
+## Available Languages (11)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -34,6 +34,7 @@ string[] words= File.ReadAllText(Path.Combine(Path.GetDirectoryName(Assembly.Get
 | Azerbaijani        | Azərbaycan dili        |        38.503             |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Azerbaijani/Azerbaijani-38.503.txt)  |
 | English            | English              |   466.553              |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/English/English-466.553.txt)  |
 | French             | Français               |      336.528                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/French/French-336.528.txt)  |
+| Georgian             | ქართული               |      193.210                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Georgian/Georgian-193.210.txt)  |
 | Greek             | ελληνικά               |      35.279               |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Greek/Greek-35.279.txt)  |
 | Kurdish            | Kurdî               |      959                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Kurdish/Kurdish-959.txt)  |
 | Persian            | فارسی               |      900.357                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Persian/Persian-900.357.txt)  |
@@ -59,3 +60,4 @@ string[] words= File.ReadAllText(Path.Combine(Path.GetDirectoryName(Assembly.Get
 * https://www.kaggle.com/datasets/slyce20/aze-words-corpus
 * https://psychology.nottingham.ac.uk/greeklex/greeklex1.html
 * https://github.com/dwyl/english-words/blob/master/words.txt
+* https://github.com/akalongman/geo-words/blob/master/dictionary/txt/ka_GE.txt
