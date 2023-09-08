@@ -44,7 +44,7 @@ This repository contains all the words from every language that exists in the un
 * Buy me a coffee: [eymenefealtun](https://www.buymeacoffee.com/altuneymenefe) 
 
 ## How to contribute?
-* For `How to use?`: [how_to_contribute_for_how_to_use.md](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/how_to_use/how_to_contribute_for_how_to_use.md)
+* For `How to use?` part: [how_to_contribute_for_how_to_use.md](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/how_to_use/how_to_contribute_for_how_to_use.md)
 
 ## Sources
 * https://github.com/words/an-array-of-spanish-words
