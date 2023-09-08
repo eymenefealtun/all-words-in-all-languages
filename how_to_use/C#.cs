@@ -2,7 +2,7 @@
 //2- Change its 'Build Action' to Embedded resource and its 'Copy to Output Directory' to Copy if newer from its properties.
 //3- Assign to a string array using method below;
 
-public static string[] GetLanguageArray( )
+public static string[] GetArrayOfWords( )
 {
 return File.ReadAllText(Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"yourPath")).Split(',');
 }
