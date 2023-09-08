@@ -7,7 +7,7 @@
 
 4. In the last comment line, add `<numberOfLastStep>- Assign to a string array using method below;`
 
-5. Create a method called `GetLanguageArray` that returns an array of strings from the target .txt file. (This method reads the target .txt file, splits it into an array, and returns the array.)
+5. Create a method called `GetArrayOfWords` that returns an array of strings from the target .txt file. (This method reads the target .txt file, splits it into an array, and returns the array.)
 
 6. Provide information in the comment lines for the method as needed.
    
