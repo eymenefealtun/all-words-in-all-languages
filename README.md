@@ -25,6 +25,29 @@ This repository contains all the words from every language that exists in the un
 ```plaintext
 string[] words= File.ReadAllText(Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), @"yourFileName")).Split(',');
 ```
+
+### [C++](https://cplusplus.com/doc/tutorial/)
+
+```cpp
+#include <iostream>
+#include <fstream>
+#include <sstream>
+#include <vector>
+using namespace std;
+int main() {
+    ifstream file("yourFileName.txt");
+    if (!file) { cerr << "file opening error!" << endl; return 1; }
+    string line, word;
+    getline(file, line);
+    file.close();
+    vector<string> words;
+    istringstream ss(line);
+    while (getline(ss, word, ',')) words.push_back(word);
+    for (const string& w : words) cout << w << endl;
+    return 0;
+}
+
+```
 ## Available Languages (11)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
