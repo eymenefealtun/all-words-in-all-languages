@@ -27,6 +27,7 @@ This repository contains all the words from every language that exists in the un
 | Arabic             | اللغة العربية            |                   5.691.498 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Arabic/Arabic-5.691.498.txt)  |
 | Armenian             |   Հայերէն         |                 981  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Armenian/Armenian-981.txt)  |
 | Azerbaijani        | Azərbaycan dili        |        38.503             |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Azerbaijani/Azerbaijani-38.503.txt)  |
+| Bulgarian        | български      |        3098          |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Bulgarian/Bulgarian-3098.txt)  |
 | English            | English              |   466.553              |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/English/English-466.553.txt)  |
 | French             | Français               |      336.528                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/French/French-336.528.txt)  |
 | Georgian             | ქართული               |      193.210                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Georgian/Georgian-193.210.txt)  |
