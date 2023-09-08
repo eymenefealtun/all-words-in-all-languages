@@ -17,11 +17,9 @@
 </p>
 
 This repository contains all the words from every language that exists in the universe. Each word is separated by commas, allowing effortless integration into your project as a string array using basic comma-based splitting. If you're seeking an example of how to use it within a project, the [Typing Speed application](https://github.com/eymenefealtun/TarotTyping) utilizes these resources.
-  ## How to use?
-  [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
+## How to use?
+[Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-  ## How to contribute?
-[how_to_contribute.md](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/how_to_use/how_to_contribute.md).
 ## Available Languages (11)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
@@ -46,9 +44,7 @@ This repository contains all the words from every language that exists in the un
 * Buy me a coffee: [eymenefealtun](https://www.buymeacoffee.com/altuneymenefe) 
 
 ## How to contribute?
- 1. [Fork](https://github.com/eymenefealtun/all-words-in-all-languages/fork) the repository.
- 2. Add new words to the array or introduce languages that haven't been covered yet.
- 3. Submit a pull request.
+* For `How to use?`: [how_to_contribute_for_how_to_use.md](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/how_to_use/how_to_contribute_for_how_to_use.md)
 
 ## Sources
 * https://github.com/words/an-array-of-spanish-words
