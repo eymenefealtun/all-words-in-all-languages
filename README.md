@@ -56,3 +56,4 @@ This repository contains all the words from every language that exists in the un
 * https://psychology.nottingham.ac.uk/greeklex/greeklex1.html
 * https://github.com/dwyl/english-words/blob/master/words.txt
 * https://github.com/akalongman/geo-words/blob/master/dictionary/txt/ka_GE.txt
+* https://github.com/lwinmoe/segment/blob/master/chinese-word-list.txt
