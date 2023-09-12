@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (11)
+## Available Languages (13)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -28,6 +28,7 @@ This repository contains all the words from every language that exists in the un
 | Armenian             |   Հայերէն         |                 981  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Armenian/Armenian-981.txt)  |
 | Azerbaijani        | Azərbaycan dili        |        38.503             |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Azerbaijani/Azerbaijani-38.503.txt)  |
 | Bulgarian        | български      |        3098          |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Bulgarian/Bulgarian-3098.txt)  |
+| Chinese        | 中文      |        406.588          |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Chinese/Chinese-406.588.txt)  |
 | English            | English              |   466.553              |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/English/English-466.553.txt)  |
 | French             | Français               |      336.528                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/French/French-336.528.txt)  |
 | Georgian             | ქართული               |      193.210                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Georgian/Georgian-193.210.txt)  |
