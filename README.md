@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (14)
+## Available Languages (15)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -37,6 +37,7 @@ This repository contains all the words from every language that exists in the un
 | Persian            | فارسی               |      900.357                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Persian/Persian-900.357.txt)  |
 | Serbian            | српски              |      250.710                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Serbian/Serbian-250.710.txt)  |
 | Spanish            | Español               |      636.598                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Spanish/Spanish-636.598.txt)  |
+| Swedish            | svenska               |      403.791                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Swedish/Swedish-403.791.txt)  |
 | Turkish            | Türkçe               |      60.451                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Turkish/Turkish-60.451.txt)  |
 
 ## Created By: [@eymenefealtun](https://github.com/eymenefealtun)
@@ -59,3 +60,4 @@ This repository contains all the words from every language that exists in the un
 * https://github.com/akalongman/geo-words/blob/master/dictionary/txt/ka_GE.txt
 * https://github.com/lwinmoe/segment/blob/master/chinese-word-list.txt
 * https://github.com/turanjanin/spisak-srpskih-reci
+* https://github.com/martinlindhe/wordlist_swedish
