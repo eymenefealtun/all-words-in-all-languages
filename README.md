@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (16)
+## Available Languages (17)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -34,6 +34,7 @@ This repository contains all the words from every language that exists in the un
 | French             | Français               |      336.528                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/French/French-336.528.txt)  |
 | Georgian             | ქართული               |      193.210                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Georgian/Georgian-193.210.txt)  |
 | Greek             | ελληνικά               |      35.279               |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Greek/Greek-35.279.txt)  |
+| Hebrew             | עברית               |      385.399               |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hebrew/Hebrew-385.399.txt)  |
 | Kurdish            | Kurdî               |      959                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Kurdish/Kurdish-959.txt)  |
 | Persian            | فارسی               |      900.357                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Persian/Persian-900.357.txt)  |
 | Serbian            | српски              |      250.710                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Serbian/Serbian-250.710.txt)  |
@@ -63,3 +64,4 @@ This repository contains all the words from every language that exists in the un
 * https://github.com/turanjanin/spisak-srpskih-reci
 * https://github.com/martinlindhe/wordlist_swedish
 * https://github.com/hugovk/everyfinnishword
+* https://www.kaggle.com/datasets/vladimirkon/hebrew-words
