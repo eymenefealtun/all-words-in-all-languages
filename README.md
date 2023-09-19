@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (18)
+## Available Languages (19)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -33,6 +33,7 @@ This repository contains all the words from every language that exists in the un
 | Finnish            | suomen kieli              |   91.672             |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Finnish/Finnish-91.672.txt)  |
 | French             | Français               |      336.528                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/French/French-336.528.txt)  |
 | Georgian             | ქართული               |      193.210                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Georgian/Georgian-193.210.txt)  |
+| German             | Deutsch               |      1.707.902                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/German/German-1.707.902.txt)  |
 | Greek             | ελληνικά               |      35.279               |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Greek/Greek-35.279.txt)  |
 | Hebrew             | עברית               |      385.399               |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hebrew/Hebrew-385.399.txt)  |
 | Kurdish            | Kurdî               |      959                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Kurdish/Kurdish-959.txt)  |
@@ -67,3 +68,6 @@ This repository contains all the words from every language that exists in the un
 * https://github.com/hugovk/everyfinnishword
 * https://www.kaggle.com/datasets/vladimirkon/hebrew-words
 * https://github.com/ManiacDC/TypingAid
+* https://github.com/creativecouple/all-the-german-words/blob/master/woerter.json
+* https://gist.github.com/MarvinJWendt/2f4f4154b8ae218600eb091a5706b5f4
+* https://github.com/enz/german-wordlist/blob/master/words
