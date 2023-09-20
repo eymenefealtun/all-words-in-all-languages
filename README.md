@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (19)
+## Available Languages (20)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -36,6 +36,7 @@ This repository contains all the words from every language that exists in the un
 | German             | Deutsch               |      1.707.902                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/German/German-1.707.902.txt)  |
 | Greek             | ελληνικά               |      35.279               |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Greek/Greek-35.279.txt)  |
 | Hebrew             | עברית               |      385.399               |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hebrew/Hebrew-385.399.txt)  |
+| Italian            | 	italiano               |      661.563                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Italian/Italian-661.563.txt)  |
 | Kurdish            | Kurdî               |      959                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Kurdish/Kurdish-959.txt)  |
 | Persian            | فارسی               |      900.357                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Persian/Persian-900.357.txt)  |
 | Romanian            | limba română    |      272.616                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Romanian/Romanian-272.616.txt)  |
@@ -71,3 +72,5 @@ This repository contains all the words from every language that exists in the un
 * https://github.com/creativecouple/all-the-german-words/blob/master/woerter.json
 * https://gist.github.com/MarvinJWendt/2f4f4154b8ae218600eb091a5706b5f4
 * https://github.com/enz/german-wordlist/blob/master/words
+* https://gist.github.com/sinanatra/23cc714cb98b2568d664eb6b4b46f6d6
+* https://github.com/napolux/paroleitaliane
