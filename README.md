@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (21)
+## Available Languages (22)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -39,6 +39,7 @@ This repository contains all the words from every language that exists in the un
 | Italian            | 	italiano           |      661.563                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Italian/Italian-661.563.txt)  |
 | Kurdish            | Kurdî               |      959                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Kurdish/Kurdish-959.txt)  |
 | Persian            | فارسی                |             900.357          |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Persian/Persian-900.357.txt)  |
+| Portuguese         | Português           |      1.108.873                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Portuguese/Portuguese-1.108.873.txt)  |
 | Romanian           | limba română        |      272.616                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Romanian/Romanian-272.616.txt)  |
 | Serbian            | српски              |      250.710                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Serbian/Serbian-250.710.txt)  |
 | Spanish            | Español             |      636.598                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Spanish/Spanish-636.598.txt)  |
@@ -76,3 +77,5 @@ This repository contains all the words from every language that exists in the un
 * https://gist.github.com/sinanatra/23cc714cb98b2568d664eb6b4b46f6d6
 * https://github.com/napolux/paroleitaliane
 * https://github.com/duyet/vietnamese-wordlist
+* https://natura.di.uminho.pt/download/sources/Dictionaries/wordlists/
+* https://github.com/hexapode/an-array-of-portuguese-words
