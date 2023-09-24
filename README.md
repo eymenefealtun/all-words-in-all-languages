@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (23)
+## Available Languages (24)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -39,9 +39,10 @@ This repository contains all the words from every language that exists in the un
 | Hindi              | 	हिन्दी               |      476.641                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hindi/Hindi.txt)  |
 | Italian            | 	italiano           |      661.563                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Italian/Italian.txt)  |
 | Kurdish            | Kurdî               |      959                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Kurdish/Kurdish.txt)  |
-| Persian            | فارسی                |             900.357          |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Persian/Persian.txt)  |
+| Persian            | فارسی      |             900.357                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Persian/Persian.txt)  |
 | Portuguese         | Português           |      1.108.873                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Portuguese/Portuguese.txt)  |
 | Romanian           | limba română        |      272.616                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Romanian/Romanian.txt)  |
+| Russian            | Русский язык        |      171.552                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Russian/Russian.txt)  |
 | Serbian            | српски              |      250.710                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Serbian/Serbian.txt)  |
 | Spanish            | Español             |      636.598                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Spanish/Spanish.txt)  |
 | Swedish            | svenska             |      403.791                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Swedish/Swedish.txt)  |
@@ -81,3 +82,5 @@ This repository contains all the words from every language that exists in the un
 * https://natura.di.uminho.pt/download/sources/Dictionaries/wordlists/
 * https://github.com/hexapode/an-array-of-portuguese-words
 * https://github.com/Shreeshrii/hindi-hunspell
+* https://github.com/svetlitskiy/wordlist-russian
+* https://github.com/hingston/russian
