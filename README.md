@@ -28,6 +28,7 @@ This repository contains all the words from every language that exists in the un
 | Armenian           |   Հայերէն           |                 981           |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Armenian/Armenian.txt)  |
 | Azerbaijani        | Azərbaycan dili     |        38.503                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Azerbaijani/Azerbaijani.txt)  |
 | Bulgarian          | български           |        3098                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Bulgarian/Bulgarian.txt)  |
+| Bengali            | বাংলা                |        439.603                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Bengali/Bengali.txt)  |
 | Chinese            | 中文                |        406.588                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Chinese/Chinese.txt)  |
 | English            | English             |   466.553                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/English/English.txt)  |
 | Finnish            | suomen kieli        |   91.672                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Finnish/Finnish.txt)  |
@@ -84,3 +85,4 @@ This repository contains all the words from every language that exists in the un
 * https://github.com/Shreeshrii/hindi-hunspell
 * https://github.com/svetlitskiy/wordlist-russian
 * https://github.com/hingston/russian
+* https://github.com/MinhasKamal/BengaliDictionary
