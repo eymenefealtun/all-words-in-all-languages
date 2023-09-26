@@ -39,7 +39,7 @@ This repository contains all the words from every language that exists in the un
 | Hebrew             | עברית    |             385.399                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hebrew/Hebrew.txt)  |
 | Hindi              | हिन्दी                |      476.641                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hindi/Hindi.txt)  |
 | Italian            | italiano            |      661.563                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Italian/Italian.txt)  |
-| Japanese           | 日本語              |      44.492                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt)  |
+| Japanese           | 日本語               |      44.492                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt)  |
 | Kurdish            | Kurdî               |      959                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Kurdish/Kurdish.txt)  |
 | Persian            | فارسی      |             900.357                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Persian/Persian.txt)  |
 | Portuguese         | Português           |      1.108.873                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Portuguese/Portuguese.txt)  |
