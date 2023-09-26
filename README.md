@@ -20,12 +20,12 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (25)
+## Available Languages (26)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
 | Arabic             | اللغة العربية            |           5.691.498     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Arabic/Arabic.txt)  |
-| Armenian           |   Հայերէն           |                 981           |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Armenian/Armenian.txt)  |
+| Armenian           | Հայերէն             |                 981           |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Armenian/Armenian.txt)  |
 | Azerbaijani        | Azərbaycan dili     |        38.503                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Azerbaijani/Azerbaijani.txt)  |
 | Bulgarian          | български           |        3098                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Bulgarian/Bulgarian.txt)  |
 | Bengali            | বাংলা                |        439.603                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Bengali/Bengali.txt)  |
@@ -37,8 +37,9 @@ This repository contains all the words from every language that exists in the un
 | German             | Deutsch             |      1.707.902                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/German/German.txt)  |
 | Greek              | ελληνικά            |      35.279                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Greek/Greek.txt)  |
 | Hebrew             | עברית    |             385.399                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hebrew/Hebrew.txt)  |
-| Hindi              | 	हिन्दी               |      476.641                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hindi/Hindi.txt)  |
-| Italian            | 	italiano           |      661.563                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Italian/Italian.txt)  |
+| Hindi              | हिन्दी                |      476.641                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hindi/Hindi.txt)  |
+| Italian            | italiano            |      661.563                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Italian/Italian.txt)  |
+| Japanese           | 日本語              |      44.492                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt)  |
 | Kurdish            | Kurdî               |      959                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Kurdish/Kurdish.txt)  |
 | Persian            | فارسی      |             900.357                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Persian/Persian.txt)  |
 | Portuguese         | Português           |      1.108.873                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Portuguese/Portuguese.txt)  |
@@ -86,3 +87,4 @@ This repository contains all the words from every language that exists in the un
 * https://github.com/svetlitskiy/wordlist-russian
 * https://github.com/hingston/russian
 * https://github.com/MinhasKamal/BengaliDictionary
+* https://github.com/hingston/japanese
