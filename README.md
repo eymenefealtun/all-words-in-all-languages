@@ -49,6 +49,7 @@ This repository contains all the words from every language that exists in the un
 | Spanish            | Español             |      636.598                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Spanish/Spanish.txt)  |
 | Swedish            | svenska             |      403.791                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Swedish/Swedish.txt)  |
 | Turkish            | Türkçe              |      60.451                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Turkish/Turkish.txt)  |
+| Urdu               | اُردُو         |             154.781                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Urdu/Urdu.txt)  |
 | Vietnamese         | Tiếng Việt          |      5807                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Vietnamese/Vietnamese.txt)  |
 
 ## Created By: [@eymenefealtun](https://github.com/eymenefealtun)
@@ -88,3 +89,4 @@ This repository contains all the words from every language that exists in the un
 * https://github.com/hingston/russian
 * https://github.com/MinhasKamal/BengaliDictionary
 * https://github.com/hingston/japanese
+* https://github.com/urduhack/urdu-words
