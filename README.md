@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (30)
+## Available Languages (31)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -45,6 +45,7 @@ This repository contains all the words from every language that exists in the un
 | Japanese           | 日本語               |      44.492                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt)  |
 | Kurdish            | Kurdî               |      959                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Kurdish/Kurdish.txt)  |
 | Persian            | فارسی      |             900.357                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Persian/Persian.txt)  |
+| Polish             | polski              |      4.075.675                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Polish/Polish.txt)  |
 | Portuguese         | Português           |      1.108.873                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Portuguese/Portuguese.txt)  |
 | Romanian           | limba română        |      272.616                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Romanian/Romanian.txt)  |
 | Russian            | Русский язык        |      171.552                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Russian/Russian.txt)  |
@@ -96,3 +97,4 @@ This repository contains all the words from every language that exists in the un
 * https://github.com/agulagul/Indonesia-words
 * https://github.com/kkrypt0nn/wordlists
 * https://github.com/AustinZuniga/Filipino-wordlist
+* https://github.com/sigo/polish-dictionary
