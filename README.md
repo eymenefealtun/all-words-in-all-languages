@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (31)
+## Available Languages (32)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -31,6 +31,7 @@ This repository contains all the words from every language that exists in the un
 | Bengali            | বাংলা                |        439.603                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Bengali/Bengali.txt)  |
 | Chinese            | 中文                |        406.588                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Chinese/Chinese.txt)  |
 | Czech              | čeština             |   535.888                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Czech/Czech.txt)  |
+| Dutch              | Nederlands          |   173.556                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Dutch/Dutch.txt)  |
 | English            | English             |   466.553                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/English/English.txt)  |
 | Filipino           | Filipino            |   190.811                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Filipino/Filipino.txt)  |
 | Finnish            | suomen kieli        |   91.672                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Finnish/Finnish.txt)  |
