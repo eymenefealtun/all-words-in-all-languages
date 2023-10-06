@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (33)
+## Available Languages (34)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -44,6 +44,7 @@ This repository contains all the words from every language that exists in the un
 | Indonesian         | Bahasa Indonesia    |      30.341                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Indonesian/Indonesian.txt)  |
 | Italian            | italiano            |      661.563                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Italian/Italian.txt)  |
 | Japanese           | 日本語               |      44.492                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt)  |
+| Korean             | 한국어               |      366.503                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Korean/Korean.txt)  |
 | Kurdish            | Kurdî               |      959                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Kurdish/Kurdish.txt)  |
 | Persian            | فارسی      |             900.357                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Persian/Persian.txt)  |
 | Polish             | polski              |      4.075.675                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Polish/Polish.txt)  |
@@ -100,3 +101,4 @@ This repository contains all the words from every language that exists in the un
 * https://github.com/kkrypt0nn/wordlists
 * https://github.com/AustinZuniga/Filipino-wordlist
 * https://github.com/sigo/polish-dictionary
+* https://github.com/acidsound/korean_wordlist
