@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (35)
+## Available Languages (36)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -42,6 +42,7 @@ This repository contains all the words from every language that exists in the un
 | Greek              | ελληνικά            |      35.279                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Greek/Greek.txt)  |
 | Hebrew             | עברית    |             385.399                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hebrew/Hebrew.txt)  |
 | Hindi              | हिन्दी                |      476.641                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hindi/Hindi.txt)  |
+| Hungarian          |  magyar             |      17.998                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hungarian/Hungarian.txt)  |
 | Indonesian         | Bahasa Indonesia    |      30.341                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Indonesian/Indonesian.txt)  |
 | Italian            | italiano            |      661.563                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Italian/Italian.txt)  |
 | Japanese           | 日本語               |      44.492                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt)  |
@@ -104,3 +105,4 @@ This repository contains all the words from every language that exists in the un
 * https://github.com/sigo/polish-dictionary
 * https://github.com/acidsound/korean_wordlist
 * https://github.com/wildeyedskies/vortaro
+* https://github.com/Blkzer0/Wordlists
