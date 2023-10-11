@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (37)
+## Available Languages (38)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -54,6 +54,7 @@ This repository contains all the words from every language that exists in the un
 | Romanian           | limba română        |      272.616                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Romanian/Romanian.txt)  |
 | Russian            | Русский язык        |      171.552                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Russian/Russian.txt)  |
 | Serbian            | српски              |      250.710                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Serbian/Serbian.txt)  |
+| Slovak            | 	slovenčina         |      1.794.372               |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Slovak/Slovak.txt)  |
 | Slovenian           | slovenščina        |      344.442                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Slovenian/Slovenian.txt)  |
 | Spanish            | Español             |      636.598                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Spanish/Spanish.txt)  |
 | Swedish            | svenska             |      403.791                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Swedish/Swedish.txt)  |
@@ -108,3 +109,4 @@ This repository contains all the words from every language that exists in the un
 * https://github.com/wildeyedskies/vortaro
 * https://github.com/Blkzer0/Wordlists
 * https://github.com/andrazjelenc/Slovenian-wordlist
+* https://github.com/danielhusar/slovak-wordlist
