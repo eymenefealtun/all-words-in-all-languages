@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (38)
+## Available Languages (39)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -43,6 +43,7 @@ This repository contains all the words from every language that exists in the un
 | Hebrew             | עברית    |             385.399                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hebrew/Hebrew.txt)  |
 | Hindi              | हिन्दी                |      476.641                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hindi/Hindi.txt)  |
 | Hungarian          |  magyar             |      17.998                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hungarian/Hungarian.txt)  |
+| Icelandic          |  íslenska          |      4999                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Icelandic/Icelandic.txt)  |
 | Indonesian         | Bahasa Indonesia    |      30.341                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Indonesian/Indonesian.txt)  |
 | Italian            | italiano            |      661.563                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Italian/Italian.txt)  |
 | Japanese           | 日本語               |      44.492                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt)  |
@@ -110,3 +111,4 @@ This repository contains all the words from every language that exists in the un
 * https://github.com/Blkzer0/Wordlists
 * https://github.com/andrazjelenc/Slovenian-wordlist
 * https://github.com/danielhusar/slovak-wordlist
+* https://github.com/optional-is/New-Icelandic-words
