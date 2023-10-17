@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (41)
+## Available Languages (42)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -49,6 +49,7 @@ This repository contains all the words from every language that exists in the un
 | Japanese           | 日本語               |      44.492                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt)  |
 | Korean             | 한국어               |      366.503                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Korean/Korean.txt)  |
 | Kurdish            | Kurdî               |      959                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Kurdish/Kurdish.txt)  |
+| Latvian         | latviešu valoda     |      309.937                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Latvian/Latvian.txt)  |
 | Lithuanian         | lietuvių kalba      |      82.627                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Lithuanian/Lithuanian.txt)  |
 | Pashto           | پښتو      |             2608                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Pashto/Pashto.txt)  |
 | Persian            | فارسی      |             900.357                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Persian/Persian.txt)  |
@@ -116,3 +117,4 @@ This repository contains all the words from every language that exists in the un
 * https://github.com/optional-is/New-Icelandic-words
 * https://github.com/giekaton/lithuanian-words-txt
 * https://github.com/frekwencja/most-common-words-multilingual
+* https://github.com/LUMII-AILab/Tezaurs
