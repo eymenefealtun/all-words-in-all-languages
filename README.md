@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (46)
+## Available Languages (47)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -34,6 +34,7 @@ This repository contains all the words from every language that exists in the un
 | Dutch              | Nederlands          |   173.556                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Dutch/Dutch.txt)  |
 | English            | English             |   466.553                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/English/English.txt)  |
 | Esperanto          | Esperanto           |       4213                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Esperanto/Esperanto.txt)  |
+| Estonian          | eesti keel            |       3779                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Estonian/Estonian.txt)  |
 | Filipino           | Filipino            |   190.811                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Filipino/Filipino.txt)  |
 | Finnish            | suomen kieli        |   91.672                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Finnish/Finnish.txt)  |
 | French             | Français            |      336.528                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/French/French.txt)  |
@@ -125,3 +126,4 @@ This repository contains all the words from every language that exists in the un
 * https://github.com/longman694/thai-words
 * https://github.com/Ondkloss/norwegian-wordlist
 * https://en.wiktionary.org/wiki/Appendix:Galician_Swadesh_list
+* https://github.com/frekwencja/most-common-words-multilingual/blob/main/data/wordfrequency.info/et.txt
