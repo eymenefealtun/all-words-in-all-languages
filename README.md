@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (45)
+## Available Languages (46)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -37,6 +37,7 @@ This repository contains all the words from every language that exists in the un
 | Filipino           | Filipino            |   190.811                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Filipino/Filipino.txt)  |
 | Finnish            | suomen kieli        |   91.672                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Finnish/Finnish.txt)  |
 | French             | Français            |      336.528                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/French/French.txt)  |
+| Galician             | galego           |      200                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Galician/Galician.txt)  |
 | Georgian           | ქართული           |      193.210                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Georgian/Georgian.txt)  |
 | German             | Deutsch             |      1.707.902                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/German/German.txt)  |
 | Greek              | ελληνικά            |      35.279                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Greek/Greek.txt)  |
@@ -123,3 +124,4 @@ This repository contains all the words from every language that exists in the un
 * https://github.com/LUMII-AILab/Tezaurs
 * https://github.com/longman694/thai-words
 * https://github.com/Ondkloss/norwegian-wordlist
+* https://en.wiktionary.org/wiki/Appendix:Galician_Swadesh_list
