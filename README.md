@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (47)
+## Available Languages (48)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -31,6 +31,7 @@ This repository contains all the words from every language that exists in the un
 | Bengali            | বাংলা                |        439.603                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Bengali/Bengali.txt)  |
 | Chinese            | 中文                |        406.588                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Chinese/Chinese.txt)  |
 | Czech              | čeština             |   535.888                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Czech/Czech.txt)  |
+| Danish              | dansk             |   1.800.765                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Danish/Danish.txt)  |
 | Dutch              | Nederlands          |   173.556                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Dutch/Dutch.txt)  |
 | English            | English             |   466.553                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/English/English.txt)  |
 | Esperanto          | Esperanto           |       4213                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Esperanto/Esperanto.txt)  |
@@ -127,3 +128,4 @@ This repository contains all the words from every language that exists in the un
 * https://github.com/Ondkloss/norwegian-wordlist
 * https://en.wiktionary.org/wiki/Appendix:Galician_Swadesh_list
 * https://github.com/frekwencja/most-common-words-multilingual/blob/main/data/wordfrequency.info/et.txt
+* https://github.com/fraabye/Danish-wordlists
