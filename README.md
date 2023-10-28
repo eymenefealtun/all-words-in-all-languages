@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (48)
+## Available Languages (49)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -30,6 +30,7 @@ This repository contains all the words from every language that exists in the un
 | Bulgarian          | български           |        3098                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Bulgarian/Bulgarian.txt)  |
 | Bengali            | বাংলা                |        439.603                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Bengali/Bengali.txt)  |
 | Chinese            | 中文                |        406.588                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Chinese/Chinese.txt)  |
+| Croatian           | 	hrvatski          |        3765               |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Croatian/Croatian.txt)  |
 | Czech              | čeština             |   535.888                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Czech/Czech.txt)  |
 | Danish              | dansk             |   1.800.765                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Danish/Danish.txt)  |
 | Dutch              | Nederlands          |   173.556                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Dutch/Dutch.txt)  |
