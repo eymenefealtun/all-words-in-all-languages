@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (57)
+## Available Languages (58)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -76,6 +76,7 @@ This repository contains all the words from every language that exists in the un
 | Slovenian          | slovenščina         |      344.442                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Slovenian/Slovenian.txt)  |
 | Spanish            | Español             |      636.598                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Spanish/Spanish.txt)  |
 | Swedish            | svenska             |      403.791                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Swedish/Swedish.txt)  |
+| Tajik              | забо́ни тоҷикӣ́       |      2894                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Tajik/Tajik.txt)  |
 | Thai               | คำเมือง              |      71.190                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Thai/Thai.txt)  |
 | Turkish            | Türkçe              |      60.451                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Turkish/Turkish.txt)  |
 | Ukranian           | українська мова     |      126.308                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Ukranian/Ukranian.txt)  |
