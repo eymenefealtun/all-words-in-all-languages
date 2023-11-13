@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (58)
+## Available Languages (59)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -56,31 +56,32 @@ This repository contains all the words from every language that exists in the un
 | Igbo               |  Ásụ̀sụ̀ Ìgbò         |      1812                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Igbo/Igbo.txt)  |
 | Indonesian         | Bahasa Indonesia    |      30.341                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Indonesian/Indonesian.txt)  |
 | Italian            | italiano            |      661.563                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Italian/Italian.txt)  |
-| Japanese           | 日本語               |      44.492                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt)  |
-| Kazakh           | Қазақ тілі            |     2969                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Kazakh/Kazakh.txt)  |
-| Korean             | 한국어               |      366.503                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Korean/Korean.txt)  |
+| Japanese           | 日本語              |      44.492                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt)  |
+| Kazakh             | Қазақ тілі          |     2969                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Kazakh/Kazakh.txt)  |
+| Korean             | 한국어              |      366.503                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Korean/Korean.txt)  |
 | Kurdish            | Kurdî               |      959                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Kurdish/Kurdish.txt)  |
 | Kyrgyz             | Kyrgyz tili         |      2920                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Kyrgyz/Kyrgyz.txt)  |
-| Latvian            | latviešu valoda     |      309.937                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Latvian/Latvian.txt)  |
+| Latvian            | latviešu valoda     |      309.937                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Latvian/Latvian.txt)  |
 | Lithuanian         | lietuvių kalba      |      82.627                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Lithuanian/Lithuanian.txt)  |
-| Malay              | Bahasa Melayu       |      876                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Malay/Malay.txt)  |
-| Norwegian          | norsk               |      186.965                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Norwegian/Norwegian.txt)  |
-| Pashto             | پښتو      |                2608                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Pashto/Pashto.txt)  |
-| Persian            | فارسی      |             900.357                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Persian/Persian.txt)  |
+| Malay              | Bahasa Melayu       |      876                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Malay/Malay.txt)  |
+| Norwegian          | norsk               |      186.965                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Norwegian/Norwegian.txt)  |
+| Pashto             | پښتو      |                2608                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Pashto/Pashto.txt)  |
+| Persian            | فارسی      |             900.357                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Persian/Persian.txt)  |
 | Polish             | polski              |      4.075.675                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Polish/Polish.txt)  |
 | Portuguese         | Português           |      1.108.873                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Portuguese/Portuguese.txt)  |
 | Romanian           | limba română        |      272.616                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Romanian/Romanian.txt)  |
 | Russian            | Русский язык        |      171.552                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Russian/Russian.txt)  |
 | Serbian            | српски              |      250.710                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Serbian/Serbian.txt)  |
-| Slovak             | 	slovenčina         |      1.794.372               |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Slovak/Slovak.txt)  |
-| Slovenian          | slovenščina         |      344.442                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Slovenian/Slovenian.txt)  |
+| Slovak             | 	slovenčina         |      1.794.372                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Slovak/Slovak.txt)  |
+| Slovenian          | slovenščina         |      344.442                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Slovenian/Slovenian.txt)  |
 | Spanish            | Español             |      636.598                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Spanish/Spanish.txt)  |
 | Swedish            | svenska             |      403.791                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Swedish/Swedish.txt)  |
-| Tajik              | забо́ни тоҷикӣ́       |      2894                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Tajik/Tajik.txt)  |
-| Thai               | คำเมือง              |      71.190                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Thai/Thai.txt)  |
+| Tajik              | забо́ни тоҷикӣ́       |      2894                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Tajik/Tajik.txt)  |
+| Thai               | คำเมือง              |      71.190                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Thai/Thai.txt)  |
 | Turkish            | Türkçe              |      60.451                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Turkish/Turkish.txt)  |
 | Ukranian           | українська мова     |      126.308                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Ukranian/Ukranian.txt)  |
 | Urdu               | اُردُو         |             154.781                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Urdu/Urdu.txt)  |
+| Uzbek              | O'zbek tili         |      2989                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Uzbek/Uzbek.txt)  |
 | Vietnamese         | Tiếng Việt          |      5807                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Vietnamese/Vietnamese.txt)  |
 
 ## Created By: [@eymenefealtun](https://github.com/eymenefealtun)
