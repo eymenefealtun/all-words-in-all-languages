@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (59)
+## Available Languages (60)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -55,6 +55,7 @@ This repository contains all the words from every language that exists in the un
 | Icelandic          |  íslenska           |      4999                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Icelandic/Icelandic.txt)  |
 | Igbo               |  Ásụ̀sụ̀ Ìgbò         |      1812                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Igbo/Igbo.txt)  |
 | Indonesian         | Bahasa Indonesia    |      30.341                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Indonesian/Indonesian.txt)  |
+| Irish              | Gaeilge             |      3374                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Irish/Irish.txt)  |
 | Italian            | italiano            |      661.563                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Italian/Italian.txt)  |
 | Japanese           | 日本語              |      44.492                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt)  |
 | Kazakh             | Қазақ тілі          |     2969                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Kazakh/Kazakh.txt)  |
