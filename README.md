@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (60)
+## Available Languages (61)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -84,6 +84,7 @@ This repository contains all the words from every language that exists in the un
 | Urdu               | اُردُو         |             154.781                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Urdu/Urdu.txt)  |
 | Uzbek              | O'zbek tili         |      2989                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Uzbek/Uzbek.txt)  |
 | Vietnamese         | Tiếng Việt          |      5807                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Vietnamese/Vietnamese.txt)  |
+| Zulu               | isiZulu             |      2983                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Zulu/Zulu.txt)  |
 
 ## Created By: [@eymenefealtun](https://github.com/eymenefealtun)
 * Linkedin: [@eymenefealtun](https://www.linkedin.com/in/eymen-efe-altun-a1681821b)
