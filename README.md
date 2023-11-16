@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (61)
+## Available Languages (62)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -51,6 +51,7 @@ This repository contains all the words from every language that exists in the un
 | Hebrew             | עברית    |             385.399                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hebrew/Hebrew.txt)  |
 | Hawaiian           |  ʻŌlelo Hawaiʻi     |             1574             |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hawaiian/Hawaiian.txt)  |
 | Hindi              | हिन्दी                |      476.641                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hindi/Hindi.txt)  |
+| Hmong              | lus Hmoob                |      882                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hmong/Hmong.txt)  |
 | Hungarian          |  magyar             |      17.998                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hungarian/Hungarian.txt)  |
 | Icelandic          |  íslenska           |      4999                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Icelandic/Icelandic.txt)  |
 | Igbo               |  Ásụ̀sụ̀ Ìgbò         |      1812                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Igbo/Igbo.txt)  |
