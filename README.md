@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (62)
+## Available Languages (63)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -63,6 +63,7 @@ This repository contains all the words from every language that exists in the un
 | Korean             | 한국어              |      366.503                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Korean/Korean.txt)  |
 | Kurdish            | Kurdî               |      959                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Kurdish/Kurdish.txt)  |
 | Kyrgyz             | Kyrgyz tili         |      2920                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Kyrgyz/Kyrgyz.txt)  |
+| Lao                | ລາວ                 |      3290                       |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Lao/Lao.txt)  |
 | Latvian            | latviešu valoda     |      309.937                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Latvian/Latvian.txt)  |
 | Lithuanian         | lietuvių kalba      |      82.627                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Lithuanian/Lithuanian.txt)  |
 | Malay              | Bahasa Melayu       |      876                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Malay/Malay.txt)  |
