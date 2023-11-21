@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (63)
+## Available Languages (64)
 
 | Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -67,6 +67,7 @@ This repository contains all the words from every language that exists in the un
 | Latvian            | latviešu valoda     |      309.937                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Latvian/Latvian.txt)  |
 | Lithuanian         | lietuvių kalba      |      82.627                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Lithuanian/Lithuanian.txt)  |
 | Malay              | Bahasa Melayu       |      876                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Malay/Malay.txt)  |
+| Maori              | Māori               |      2063                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Maori/Maori.txt)  |
 | Norwegian          | norsk               |      186.965                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Norwegian/Norwegian.txt)  |
 | Pashto             | پښتو      |                2608                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Pashto/Pashto.txt)  |
 | Persian            | فارسی      |             900.357                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Persian/Persian.txt)  |
