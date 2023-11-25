@@ -20,9 +20,9 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (66)
+## Available Languages (67)
 
-| Language Name      | Language Native Name | Number of Words         | Word File               |
+| 🌐 Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
 | Afrikaans           | Afrikaans           |           3667               |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Afrikaans/Afrikaans.txt)  |
 | Arabic             | اللغة العربية            |           5.691.498     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Arabic/Arabic.txt)  |
@@ -85,6 +85,7 @@ This repository contains all the words from every language that exists in the un
 | Telugu             | 	తెలుగు             |      3453                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Telugu/Telugu.txt)  |
 | Thai               | คำเมือง              |      71.190                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Thai/Thai.txt)  |
 | Turkish            | Türkçe              |      60.451                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Turkish/Turkish.txt)  |
+| Turkmen            | Türkmen dili        |      2960                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Turkmen/Turkmen.txt)  |
 | Ukranian           | українська мова     |      126.308                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Ukranian/Ukranian.txt)  |
 | Urdu               | اُردُو         |             154.781                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Urdu/Urdu.txt)  |
 | Uzbek              | O'zbek tili         |      2989                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Uzbek/Uzbek.txt)  |
