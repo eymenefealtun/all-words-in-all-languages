@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (68)
+## Available Languages (69)
 
 | 🌐 Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -60,6 +60,7 @@ This repository contains all the words from every language that exists in the un
 | Irish              | Gaeilge             |      3374                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Irish/Irish.txt)  |
 | Italian            | italiano            |      661.563                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Italian/Italian.txt)  |
 | Japanese           | 日本語              |      44.492                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Japanese/Japanese.txt)  |
+| Javanese            | Basa Jawa          |     3206                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Javanese/Javanese.txt)  |
 | Kazakh             | Қазақ тілі          |     2969                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Kazakh/Kazakh.txt)  |
 | Korean             | 한국어              |      366.503                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Korean/Korean.txt)  |
 | Kurdish            | Kurdî               |      959                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Kurdish/Kurdish.txt)  |
