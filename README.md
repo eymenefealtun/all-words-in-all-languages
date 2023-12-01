@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (72)
+## Available Languages (73)
 
 | 🌐 Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -80,6 +80,7 @@ This repository contains all the words from every language that exists in the un
 | Portuguese         | Português           |      1.108.873                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Portuguese/Portuguese.txt)  |
 | Romanian           | limba română        |      272.616                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Romanian/Romanian.txt)  |
 | Russian            | Русский язык        |      171.552                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Russian/Russian.txt)  |
+| Samoan             | Gagana fa‘a Sāmoa   |      1995                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Samoan/Samoan.txt)  |
 | Serbian            | српски              |      250.710                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Serbian/Serbian.txt)  |
 | Slovak             | 	slovenčina         |      1.794.372                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Slovak/Slovak.txt)  |
 | Slovenian          | slovenščina         |      344.442                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Slovenian/Slovenian.txt)  |
