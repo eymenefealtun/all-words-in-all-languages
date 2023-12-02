@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (73)
+## Available Languages (74)
 
 | 🌐 Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -50,6 +50,7 @@ This repository contains all the words from every language that exists in the un
 | German             | Deutsch             |      1.707.902                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/German/German.txt)  |
 | Greek              | ελληνικά            |      35.279                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Greek/Greek.txt)  |
 | Hebrew             | עברית    |             385.399                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hebrew/Hebrew.txt)  |
+| Hausa           |  Harshen Hausa    |             2038             |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hausa/Hausa.txt)  |
 | Hawaiian           |  ʻŌlelo Hawaiʻi     |             1574             |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hawaiian/Hawaiian.txt)  |
 | Hindi              | हिन्दी                |      476.641                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hindi/Hindi.txt)  |
 | Hmong              | lus Hmoob                |      882                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hmong/Hmong.txt)  |
