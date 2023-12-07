@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (78)
+## Available Languages (79)
 
 | 🌐 Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -74,6 +74,7 @@ This repository contains all the words from every language that exists in the un
 | Lithuanian         | lietuvių kalba      |      82.627                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Lithuanian/Lithuanian.txt)  |
 | Luxembourgish      | Lëtzebuergesch      |      3660                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Luxembourgish/Luxembourgish.txt)  |
 | Malay              | Bahasa Melayu       |      876                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Malay/Malay.txt)  |
+| Maltese              | Malti             |      3746                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Maltese/Maltese.txt)  |
 | Maori              | Māori               |      2063                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Maori/Maori.txt)  |
 | Norwegian          | norsk               |      186.965                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Norwegian/Norwegian.txt)  |
 | Odia               | ଓଡ଼ିଆ                |      2724                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Odia/Odia.txt)  |
