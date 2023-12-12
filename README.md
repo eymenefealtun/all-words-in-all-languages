@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (82)
+## Available Languages (83)
 
 | 🌐 Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -82,6 +82,7 @@ This repository contains all the words from every language that exists in the un
 | Persian            | فارسی      |             900.357                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Persian/Persian.txt)  |
 | Polish             | polski              |      4.075.675                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Polish/Polish.txt)  |
 | Portuguese         | Português           |      1.108.873                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Portuguese/Portuguese.txt)  |
+| Punjabi            | ਪੰਜਾਬੀ                |      3056                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Punjabi/Punjabi.txt)  |
 | Romanian           | limba română        |      272.616                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Romanian/Romanian.txt)  |
 | Russian            | Русский язык        |      171.552                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Russian/Russian.txt)  |
 | Samoan             | Gagana fa‘a Sāmoa   |      1995                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Samoan/Samoan.txt)  |
