@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (83)
+## Available Languages (84)
 
 | 🌐 Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -89,6 +89,7 @@ This repository contains all the words from every language that exists in the un
 | Serbian            | српски              |      250.710                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Serbian/Serbian.txt)  |
 | Shona              | Shona               |      3179                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Shona/Shona.txt)  |
 | Sindhi             | 	سنڌي         |               2652                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Sindhi/Sindhi.txt)  |
+| Sinhala             | 	සිංහල     |               2908                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Sinhala/Sinhala.txt)  |
 | Slovak             | 	slovenčina         |      1.794.372                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Slovak/Slovak.txt)  |
 | Slovenian          | slovenščina         |      344.442                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Slovenian/Slovenian.txt)  |
 | Spanish            | Español             |      636.598                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Spanish/Spanish.txt)  |
