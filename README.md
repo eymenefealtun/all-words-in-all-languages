@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (84)
+## Available Languages (85)
 
 | 🌐 Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -87,6 +87,7 @@ This repository contains all the words from every language that exists in the un
 | Russian            | Русский язык        |      171.552                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Russian/Russian.txt)  |
 | Samoan             | Gagana fa‘a Sāmoa   |      1995                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Samoan/Samoan.txt)  |
 | Serbian            | српски              |      250.710                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Serbian/Serbian.txt)  |
+| Sesotho            | seSotho              |      2473                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Sesotho/Sesotho.txt)  |
 | Shona              | Shona               |      3179                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Shona/Shona.txt)  |
 | Sindhi             | 	سنڌي         |               2652                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Sindhi/Sindhi.txt)  |
 | Sinhala             | 	සිංහල     |               2908                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Sinhala/Sinhala.txt)  |
