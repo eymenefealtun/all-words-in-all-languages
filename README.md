@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (96)
+## Available Languages (97)
 
 | 🌐 Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -77,6 +77,7 @@ This repository contains all the words from every language that exists in the un
 | Malay              | Bahasa Melayu       |      876                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Malay/Malay.txt)  |
 | Maltese              | Malti             |      3746                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Maltese/Maltese.txt)  |
 | Maori              | Māori               |      2063                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Maori/Maori.txt)  |
+| Marathi           | मराठी                |      3227                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Marathi/Marathi.txt)  |
 | Mongolian          | монгол               |      2522                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Mongolian/Mongolian.txt)  |
 | Myanmar              | မြန်မာဘာသာ               |      3648                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Myanmar/Myanmar.txt)  |
 | Nepali             | नेपाली                |      3118                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Nepali/Nepali.txt)  |
