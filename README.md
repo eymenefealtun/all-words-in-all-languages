@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (99)
+## Available Languages (100)
 
 | 🌐 Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -74,17 +74,18 @@ This repository contains all the words from every language that exists in the un
 | Latvian            | latviešu valoda     |      309.937                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Latvian/Latvian.txt)  |
 | Lithuanian         | lietuvių kalba      |      82.627                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Lithuanian/Lithuanian.txt)  |
 | Luxembourgish      | Lëtzebuergesch      |      3660                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Luxembourgish/Luxembourgish.txt)  |
-| Malagasy           | malagasy        |      2851                        |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Malagasy/Malagasy.txt)  |
+| Macedonian         | македонски          |      3690                        |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Macedonian/Macedonian.txt)  |
+| Malagasy           | malagasy            |      2851                        |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Malagasy/Malagasy.txt)  |
 | Malay              | Bahasa Melayu       |      876                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Malay/Malay.txt)  |
 | Malayalam          | മലയാളം           |      3685                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Malayalam/Malayalam.txt)  |
-| Maltese              | Malti             |      3746                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Maltese/Maltese.txt)  |
+| Maltese            | Malti               |      3746                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Maltese/Maltese.txt)  |
 | Maori              | Māori               |      2063                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Maori/Maori.txt)  |
-| Marathi           | मराठी                |      3227                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Marathi/Marathi.txt)  |
+| Marathi            | मराठी                |      3227                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Marathi/Marathi.txt)  |
 | Mongolian          | монгол               |      2522                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Mongolian/Mongolian.txt)  |
-| Myanmar              | မြန်မာဘာသာ               |      3648                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Myanmar/Myanmar.txt)  |
-| Nepali             | नेपाली                |      3118                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Nepali/Nepali.txt)  |
+| Myanmar            | မြန်မာဘာသာ          |      3648                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Myanmar/Myanmar.txt)  |
+| Nepali             | नेपाली                |      3118                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Nepali/Nepali.txt)  |
 | Norwegian          | norsk               |      186.965                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Norwegian/Norwegian.txt)  |
-| Odia               | ଓଡ଼ିଆ                |      2724                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Odia/Odia.txt)  |
+| Odia               | ଓଡ଼ିଆ                |      2724                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Odia/Odia.txt)  |
 | Pashto             | پښتو      |                2608                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Pashto/Pashto.txt)  |
 | Persian            | فارسی      |             900.357                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Persian/Persian.txt)  |
 | Polish             | polski              |      4.075.675                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Polish/Polish.txt)  |
@@ -93,12 +94,12 @@ This repository contains all the words from every language that exists in the un
 | Romanian           | limba română        |      272.616                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Romanian/Romanian.txt)  |
 | Russian            | Русский язык        |      171.552                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Russian/Russian.txt)  |
 | Samoan             | Gagana fa‘a Sāmoa   |      1995                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Samoan/Samoan.txt)  |
-| Scots Gaelic       | Gàidhlig            |         3151                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Scots%20Gaelic/Scots%20Gaelic.txt)  |
+| Scots Gaelic       | Gàidhlig            |      3151                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Scots%20Gaelic/Scots%20Gaelic.txt)  |
 | Serbian            | српски              |      250.710                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Serbian/Serbian.txt)  |
-| Sesotho            | seSotho              |      2473                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Sesotho/Sesotho.txt)  |
+| Sesotho            | seSotho             |      2473                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Sesotho/Sesotho.txt)  |
 | Shona              | Shona               |      3179                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Shona/Shona.txt)  |
 | Sindhi             | 	سنڌي         |               2652                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Sindhi/Sindhi.txt)  |
-| Sinhala             | 	සිංහල     |               2908                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Sinhala/Sinhala.txt)  |
+| Sinhala            | 	සිංහල             |      2908                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Sinhala/Sinhala.txt)  |
 | Slovak             | 	slovenčina         |      1.794.372                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Slovak/Slovak.txt)  |
 | Slovenian          | slovenščina         |      344.442                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Slovenian/Slovenian.txt)  |
 | Somali             | Af-Soomaali         |     2643                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Somali/Somali.txt)  |
