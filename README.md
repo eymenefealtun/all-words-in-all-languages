@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (102)
+## Available Languages (103)
 
 | 🌐 Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -50,6 +50,7 @@ This repository contains all the words from every language that exists in the un
 | Georgian           | ქართული           |      193.210                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Georgian/Georgian.txt)  |
 | German             | Deutsch             |      1.707.902                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/German/German.txt)  |
 | Greek              | ελληνικά            |      35.279                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Greek/Greek.txt)  |
+| Gujarati           | 	ગુજરાતી             |      3268                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Gujarati/Gujarati.txt)  |
 | Haitian Creole     |  Kreyòl ayisyen     |             3188             |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Haitian%20Creole/Haitian%20Creole.txt)  |
 | Hausa              |  Harshen Hausa      |             2038             |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hausa/Hausa.txt)  |
 | Hawaiian           |  ʻŌlelo Hawaiʻi     |             1574             |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Hawaiian/Hawaiian.txt)  |
