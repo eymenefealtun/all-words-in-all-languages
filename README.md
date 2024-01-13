@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (104)
+## Available Languages (105)
 
 | 🌐 Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -33,6 +33,7 @@ This repository contains all the words from every language that exists in the un
 | Bosnian            | bosanski            |        3817                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Bosnian/Bosnian.txt)  |
 | Bulgarian          | български           |        3098                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Bulgarian/Bulgarian.txt)  |
 | Catalan            | 	català             |         3585                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Catalan/Catalan.txt)  |
+| Cebuano            | Binisaya            |         3287                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Cebuano/Cebuano.txt)  |
 | Chichewa           | 	Chicheŵa           |        2404                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Chichewa/Chichewa.txt)  |
 | Chinese            | 中文                |        406.588                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Chinese/Chinese.txt)  |
 | Corsican            | corsu                |        3598              |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Corsican/Corsican.txt)  |
