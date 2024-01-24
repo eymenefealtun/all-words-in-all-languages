@@ -20,7 +20,7 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (105)
+## Available Languages (106)
 
 | 🌐 Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -28,6 +28,7 @@ This repository contains all the words from every language that exists in the un
 | Arabic             | اللغة العربية            |           5.691.498     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Arabic/Arabic.txt)  |
 | Armenian           | Հայերէն             |                 981           |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Armenian/Armenian.txt)  |
 | Azerbaijani        | Azərbaycan dili     |        38.503                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Azerbaijani/Azerbaijani.txt)  |
+| Basque             | Euskara             |        3541                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Basque/Basque.txt)  |
 | Belarusian        | Беларуская мова      |        3663                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Belarusian/Belarusian.txt)  |
 | Bengali            | বাংলা                |        439.603                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Bengali/Bengali.txt)  |
 | Bosnian            | bosanski            |        3817                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Bosnian/Bosnian.txt)  |
