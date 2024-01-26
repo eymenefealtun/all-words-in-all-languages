@@ -20,11 +20,12 @@ This repository contains all the words from every language that exists in the un
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
-## Available Languages (106)
+## Available Languages (107)
 
 | 🌐 Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
 | Afrikaans           | Afrikaans           |           3667               |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Afrikaans/Afrikaans.txt)  |
+| Amharic            | Amharic             |           2811               |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Amharic/Amharic.txt)  |
 | Arabic             | اللغة العربية            |           5.691.498     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Arabic/Arabic.txt)  |
 | Armenian           | Հայերէն             |                 981           |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Armenian/Armenian.txt)  |
 | Azerbaijani        | Azərbaycan dili     |        38.503                 |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Azerbaijani/Azerbaijani.txt)  |
