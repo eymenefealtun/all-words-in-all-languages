@@ -43,7 +43,7 @@ This repository contains all the words from every language that exists in the un
 | Czech              | čeština             |   535.888                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Czech/Czech.txt)  |
 | Danish              | dansk              |   1.800.765                   |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Danish/Danish.txt)  |
 | Dutch              | Nederlands          |   173.556                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Dutch/Dutch.txt)  |
-| English            | English             |   466.553                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/English/English.txt)  |
+| English            | English             |   466.434                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/English/English.txt)  |
 | Esperanto          | Esperanto           |       4213                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Esperanto/Esperanto.txt)  |
 | Estonian          | eesti keel            |       3779                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Estonian/Estonian.txt)  |
 | Filipino           | Filipino            |   190.811                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Filipino/Filipino.txt)  |
