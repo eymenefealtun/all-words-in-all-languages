@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/github/forks/eymenefealtun/all-words-in-all-languages?style=plastic" /></a>
 </p>
 
-This repository contains all the words from every language that exists in the universe. Each word is separated by commas, allowing effortless integration into your project as a string array using basic comma-based splitting. If you're seeking an example of how to use it within a project, the [Typing Speed application](https://github.com/eymenefealtun/TarotTyping) utilizes these resources.
+This repository contains all the words from every language that exists in the universe. Each word is separated by commas, allowing effortless integration into your project as a string array using basic comma-based splitting. If you're seeking an example of how to use it within a project, the [Typing Speed application](https://github.com/eymenefealtun/TarotTyping) utilizes these resources. Also for [C#](https://www.nuget.org/packages/LexiExtract) and [Python](https://pypi.org/project/WordsPy/) there are libraries that you can use.
 ## How to use?
 [Samples for each language.](https://github.com/eymenefealtun/all-words-in-all-languages/tree/main/how_to_use)
 
