@@ -18,7 +18,7 @@
 
 This repository contains all the words from every language that exists in the universe. Each word is separated by commas, allowing effortless integration into your project as a string array using basic comma-based splitting. If you're seeking an example of how to use it within a project, the [Typing Speed application](https://github.com/eymenefealtun/TarotTyping) utilizes these resources. Also for [C#](https://www.nuget.org/packages/LexiExtract) and [Python](https://pypi.org/project/WordsPy/) these are libraries that you can use.
 
-## Available Languages (107)
+## Available Languages (108)
 
 | 🌐 Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -99,6 +99,7 @@ This repository contains all the words from every language that exists in the un
 | Romanian           | limba română        |      272.616                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Romanian/Romanian.txt)  |
 | Russian            | Русский язык        |      171.552                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Russian/Russian.txt)  |
 | Samoan             | Gagana fa‘a Sāmoa   |      1995                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Samoan/Samoan.txt)  |
+| Sanskrit           | संस्कृत               |      237.157                     |[Words]https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Sanskrit/Sanskrit.txt)  |
 | Scots Gaelic       | Gàidhlig            |      3151                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Scots%20Gaelic/Scots%20Gaelic.txt)  |
 | Serbian            | српски              |      250.710                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Serbian/Serbian.txt)  |
 | Sesotho            | seSotho             |      2473                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Sesotho/Sesotho.txt)  |
