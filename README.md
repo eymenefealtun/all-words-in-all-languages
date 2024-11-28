@@ -99,7 +99,7 @@ This repository contains all the words from every language that exists in the un
 | Romanian           | limba română        |      272.616                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Romanian/Romanian.txt)  |
 | Russian            | Русский язык        |      171.552                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Russian/Russian.txt)  |
 | Samoan             | Gagana fa‘a Sāmoa   |      1995                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Samoan/Samoan.txt)  |
-| Sanskrit           | संस्कृत               |      237.157                     |[Words]https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Sanskrit/Sanskrit.txt)  |
+| Sanskrit           | संस्कृत               |      237.157                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Sanskrit/Sanskrit.txt)  |
 | Scots Gaelic       | Gàidhlig            |      3151                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Scots%20Gaelic/Scots%20Gaelic.txt)  |
 | Serbian            | српски              |      250.710                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Serbian/Serbian.txt)  |
 | Sesotho            | seSotho             |      2473                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Sesotho/Sesotho.txt)  |
