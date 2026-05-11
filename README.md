@@ -138,6 +138,8 @@ This repository contains all the words from every language that exists in the un
 * Medium: [eymenefealtun](https://medium.com/@eymenefealtun18) 
 * Buy me a coffee: [eymenefealtun](https://www.buymeacoffee.com/altuneymenefe) 
 
+## How to contribute?
+* Check [how to contribute](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/how_to_use/how_to_contribute_for_how_to_use.md)
 
 ## Sources
 * https://github.com/words/an-array-of-spanish-words
