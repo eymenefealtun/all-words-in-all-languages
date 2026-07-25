@@ -92,7 +92,6 @@ This repository contains all the words from every language that exists in the un
 | Norwegian          | norsk               |      186.965                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Norwegian/Norwegian.txt)  |
 | Occitan               | Occitan               |      87286               |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Occitan/Occitan.txt)  |
 | Odia               | ଓଡ଼ିଆ                |      2724                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Odia/Odia.txt)  |
-
 | Pashto             | پښتو      |                2608                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Pashto/Pashto.txt)  |
 | Persian            | فارسی      |             900.357                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Persian/Persian.txt)  |
 | Polish             | polski              |      4.075.675                |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Polish/Polish.txt)  |
