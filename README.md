@@ -18,7 +18,7 @@
 
 This repository contains all the words from every language that exists in the universe. Each word is separated by commas, allowing effortless integration into your project as a string array using basic comma-based splitting. If you're seeking an example of how to use it within a project, the [Typing Speed application](https://github.com/eymenefealtun/TarotTyping) utilizes these resources. Also for [C#](https://www.nuget.org/packages/LexiExtract) and [Python](https://pypi.org/project/WordsPy/) these are libraries that you can use.
 
-## Available Languages (108)
+## Available Languages (109)
 
 | 🌐 Language Name      | Language Native Name | Number of Words         | Word File               |
 | ------------------ | -------------------- | ----------------------- | ----------------------- |
@@ -90,6 +90,7 @@ This repository contains all the words from every language that exists in the un
 | Myanmar            | မြန်မာဘာသာ          |      3648                      |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Myanmar/Myanmar.txt)  |
 | Nepali             | नेपाली                |      3118                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Nepali/Nepali.txt)  |
 | Norwegian          | norsk               |      186.965                  |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Norwegian/Norwegian.txt)  |
+| Occitan               | Occitan               |      87287               |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Occitan/Occitan.txt)  |
 | Odia               | ଓଡ଼ିଆ                |      2724                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Odia/Odia.txt)  |
 | Pashto             | پښتو      |                2608                     |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Pashto/Pashto.txt)  |
 | Persian            | فارسی      |             900.357                    |[Words](https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/Persian/Persian.txt)  |
