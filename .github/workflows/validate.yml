@@ -1,0 +1,29 @@
+name: Validate word lists
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0  # the changed-file check diffs against the base commit
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Check changed word lists
+        run: python scripts/validate.py --changed-since "${{ github.event.pull_request.base.sha || github.event.before }}"
+
+      - name: Check README language table
+        if: ${{ !cancelled() }}
+        run: python scripts/build_readme.py --check
