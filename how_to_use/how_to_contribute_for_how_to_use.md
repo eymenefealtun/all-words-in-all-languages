@@ -16,12 +16,16 @@
     {"name": "YourLanguage", "native": "Native name of your language"},
     ```
 
+    The order of the entries does not matter. Separate entries with commas, but do not put a comma after the last one.
+
 5. Check your file and update the **Available Languages** table in `README.md` (requires [Python](https://www.python.org/downloads/) 3.9 or newer):
 
     ```
     python scripts/validate.py YourLanguage
     python scripts/build_readme.py
     ```
+
+    Put the name in quotes if it contains a space: `python scripts/validate.py "Haitian Creole"`.
 
     * `validate.py` lists **errors** (rule violations such as line breaks, empty entries or duplicates) that must be fixed, and **warnings** (entries with digits, symbols, spaces or another alphabet) worth a look but fine if your language really writes words that way.
     * `build_readme.py` sorts the table, counts the words and updates the language count for you. Do not edit the table by hand.

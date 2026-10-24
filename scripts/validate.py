@@ -186,17 +186,14 @@ def check_suspicious_entries(text, char_counts, report):
                                f"{examples(foreign)}")
 
 
-def check_structure(languages):
+def check_structure(names):
     problems = []
-    names = [lang.get("name") for lang in languages]
     for name, count in collections.Counter(names).items():
         if count > 1:
             problems.append(f"languages.json lists {name} {count} times")
-    for lang in languages:
-        if not lang.get("name") or not lang.get("native"):
-            problems.append(f"languages.json entry {lang} needs both a \"name\" and a \"native\" name")
-        elif not word_file(lang["name"]).is_file():
-            problems.append(f"{lang['name']} is listed in languages.json but {lang['name']}/{lang['name']}.txt does not exist")
+    for name in dict.fromkeys(names):
+        if not word_file(name).is_file():
+            problems.append(f"{name} is listed in languages.json but {name}/{name}.txt does not exist")
     for folder in ROOT.iterdir():
         if folder.is_dir() and not folder.name.startswith(".") \
                 and folder.name not in NON_LANGUAGE_DIRS and folder.name not in names:
@@ -206,10 +203,14 @@ def check_structure(languages):
 
 def changed_languages(ref, names):
     """Languages whose folder changed since ref, or None when that cannot be told."""
-    if set(ref) == {"0"}:  # GitHub sends an all-zero ref for a newly pushed branch
+    if not ref.strip("0"):  # GitHub sends an all-zero ref for a newly pushed branch
         return None
-    result = subprocess.run(["git", "diff", "--name-only", "-z", f"{ref}...HEAD"],
-                            cwd=ROOT, capture_output=True, text=True, encoding="utf-8")
+    try:
+        result = subprocess.run(["git", "diff", "--name-only", "-z", f"{ref}...HEAD"],
+                                cwd=ROOT, capture_output=True, text=True, encoding="utf-8")
+    except OSError as e:
+        print(f"warning: cannot run git: {e}")
+        return None
     if result.returncode != 0:
         print(f"warning: cannot diff against {ref}: {result.stderr.strip()}")
         return None
@@ -231,11 +232,10 @@ def main():
                         help="only check word lists changed between this git ref and HEAD")
     args = parser.parse_args()
 
-    languages = load_languages()
-    names = [lang.get("name") for lang in languages]
+    names = [lang["name"] for lang in load_languages()]
     failed = False
 
-    for problem in check_structure(languages):
+    for problem in check_structure(names):
         print(f"error: {problem}")
         annotate("error", "languages.json", problem)
         failed = True

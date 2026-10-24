@@ -12,7 +12,7 @@ import difflib
 import sys
 from urllib.parse import quote
 
-from wordlist import ROOT, load_languages, read_words, use_utf8_output
+from wordlist import ROOT, load_languages, read_words, use_utf8_output, word_file
 
 README = ROOT / "README.md"
 START_MARKER = "<!-- languages:start -->"
@@ -20,8 +20,8 @@ END_MARKER = "<!-- languages:end -->"
 FILE_URL = "https://github.com/eymenefealtun/all-words-in-all-languages/blob/main/{0}/{0}.txt"
 
 
-def format_count(count):
-    return f"{count:,}".replace(",", ".")
+def cell(text):
+    return text.replace("|", "\\|")
 
 
 def languages_section():
@@ -30,12 +30,14 @@ def languages_section():
         f"## Available Languages ({len(languages)})",
         "",
         "| 🌐 Language Name | Language Native Name | Number of Words | Word File |",
-        "| --- | --- | --- | --- |",
+        "| --- | --- | --: | --- |",
     ]
     for lang in languages:
         name = lang["name"]
+        if not word_file(name).is_file():
+            sys.exit(f"error: {name} is listed in languages.json but {name}/{name}.txt does not exist")
         count = len(set(read_words(name)))
-        lines.append(f"| {name} | {lang['native']} | {format_count(count)} | [Words]({FILE_URL.format(quote(name))}) |")
+        lines.append(f"| {cell(name)} | {cell(lang['native'])} | {count:,} | [Words]({FILE_URL.format(quote(name))}) |")
     return lines
 
 
